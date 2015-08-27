@@ -24,3 +24,5 @@
               ./prog-x86_64
 
 * If it exits without giving any errors, that proves the assembly code's validity. (You can also use gdb to run the binary).
+
+* The screencast for this assignment : [Google drive link](https://drive.google.com/file/d/0B12fowx3-NjTbUNSZ2NjVjl4QXM/view?usp=sharing) and [Youtube link](https://www.youtube.com/watch?v=DySQcoia4dI&feature=youtu.be)
