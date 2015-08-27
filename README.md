@@ -12,7 +12,7 @@
 * The interpretor is written in convertAssembly.cpp and convertAssembly.h. The program that translates the 32_bit.asm to 64_bit.asm is translator.cpp which depends on convertAssembly.cpp for the helper functions.
 * You can run the translator using the following commands (All the files should be in the same folder) :
 
-              gcc translator.cpp convertAssembly.cpp -o translator
+              g++ translator.cpp convertAssembly.cpp -o translator
 
               ./translator 32_bit.asm output.asm
 
